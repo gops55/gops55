@@ -1,4 +1,4 @@
-![logo](https://github.com/gops55/gops55/blob/main/2.png)
+![logo](https://github.com/gops55/gops55/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm Gopal Patekari</h1>
 <h3 align="center">A passionate Software Engineer from india</h3>
 <img align="right" alt="condig" width ="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
